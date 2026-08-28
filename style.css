@@ -340,6 +340,11 @@ section { padding: 84px 0; }
   box-shadow: var(--shadow-soft);
   border-top: 3px solid var(--gold-500);
 }
+
+.feature-card p {
+  color: var(--muted);
+}
+
 .feature-card .icon {
   width: 42px;
   height: 42px;
