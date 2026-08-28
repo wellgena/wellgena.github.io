@@ -345,6 +345,10 @@ section { padding: 84px 0; }
   color: var(--muted);
 }
 
+.feature-card h3 {
+  color: var(--ink-900);
+}
+
 .feature-card .icon {
   width: 42px;
   height: 42px;
